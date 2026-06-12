@@ -3,8 +3,12 @@ Data analysis projects showcasing Excel, Power Bi, SQL and Tableau
 # Data Analysis Portfolio
 
 Welcome to my Data Analysis Portfolio.
-
-I am a Google/Coursera Certified Data Analyst with hands-on experience in Excel, SQL, Power BI, and data visualization.
+# contact information
+Email: julietchiamaka002@gmail.com
+Linkedin url: www.linkedin.com/in/juliet-chiamaka-932003347
+Github: https://github.com/juliet506
+#About Me
+I am a Data Analyst skilled in Excel, SQL, Power Bi, and data visualization. This repository contains projects showcasing my analytical and problem-solving skills
 
 ## Projects Included
 
